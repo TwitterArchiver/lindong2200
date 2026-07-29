@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T14:01:02",
+  "last_updated": "2026-07-29T14:01:33",
   "html": {
     "https://web.archive.org/web/20260423080706if_/https://twitter.com/lindong2200/status/2047225739855143020": {
       "status": "done",
@@ -3902,27 +3902,27 @@
       "referenced_by": [
         "20260424100721_twitter_com_lindong2200_status_2047618390685352209.json"
       ],
-      "last_updated": "2026-07-29T13:51:43",
+      "last_updated": "2026-07-29T14:01:19",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260424100721/https://video.twimg.com/amplify_video/2047533676096004096/vid/avc1/960x720/7S6LHPcvwA4LGpgi.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2047539336909115392/vid/avc1/720x1280/CrB-l2lKixw9_q1N.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260425070458_twitter_com_lindong2200_status_2047934876771553734.json"
       ],
-      "last_updated": "2026-07-29T09:10:03",
+      "last_updated": "2026-07-29T14:01:21",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260425070458/https://video.twimg.com/amplify_video/2047539336909115392/vid/avc1/720x1280/CrB-l2lKixw9_q1N.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2048025390296547328/vid/avc1/720x1280/hiwc32nurw9IxJul.mp4?tag=14": {
       "status": "failed_all",
       "referenced_by": [
         "20260425143752_twitter_com_lindong2200_status_2048048855997116595.json"
       ],
-      "last_updated": "2026-07-29T13:51:42",
+      "last_updated": "2026-07-29T14:01:23",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260425143752/https://video.twimg.com/amplify_video/2048025390296547328/vid/avc1/720x1280/hiwc32nurw9IxJul.mp4?tag=14",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HHcKT4daAAANBAv.mp4": {
       "status": "done",
@@ -3939,13 +3939,13 @@
       "last_updated": "2026-07-29T09:10:02"
     },
     "https://video.twimg.com/amplify_video/2062246512332288000/vid/avc1/720x1280/HPO_kK3v9EhZ_R0W.mp4?tag=14": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260604002823_twitter_com_lindong2200_status_2062330588632383604.json"
       ],
-      "last_updated": "2026-07-29T09:10:03",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260604002823/https://video.twimg.com/amplify_video/2062246512332288000/vid/avc1/720x1280/HPO_kK3v9EhZ_R0W.mp4?tag=14",
-      "miss_count": 1
+      "last_updated": "2026-07-29T14:01:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604002823if_/https://video.twimg.com/amplify_video/2062246512332288000/vid/avc1/720x1280/HPO_kK3v9EhZ_R0W.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f73e5f355e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HKWb_M2bwAAQ20f.mp4": {
       "status": "done",
@@ -3955,13 +3955,13 @@
       "last_updated": "2026-07-29T13:51:39"
     },
     "https://video.twimg.com/ext_tw_video/2071596540414828544/pu/vid/avc1/576x1280/i-eUzmSVeQDe1hl1.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260629140846_twitter_com_lindong2200_status_2071596743226167689.json"
       ],
-      "last_updated": "2026-07-29T09:10:09",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260629140846/https://video.twimg.com/ext_tw_video/2071596540414828544/pu/vid/avc1/576x1280/i-eUzmSVeQDe1hl1.mp4?tag=12",
-      "miss_count": 1
+      "last_updated": "2026-07-29T14:01:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260629140846im_/https://video.twimg.com/ext_tw_video/2071596540414828544/pu/vid/avc1/576x1280/i-eUzmSVeQDe1hl1.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f73e4d92de0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2073036742719082496/pu/vid/avc1/1280x720/_owyHOP8J13CHbwY.mp4?tag=12": {
       "status": "done",
@@ -10254,7 +10254,7 @@
       "last_updated": "2026-07-29T09:10:35"
     },
     "20260604002823_twitter_com_lindong2200_status_2062330588632383604.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -10265,7 +10265,7 @@
           "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T09:10:32"
+      "last_updated": "2026-07-29T14:01:29"
     },
     "20260604003132_twitter_com_lindong2200_status_2062331383771763157.json": {
       "status": "done",
@@ -12379,7 +12379,7 @@
       "last_updated": "2026-07-29T09:10:38"
     },
     "20260629140846_twitter_com_lindong2200_status_2071596743226167689.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -12389,7 +12389,7 @@
           "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T09:10:30"
+      "last_updated": "2026-07-29T14:01:33"
     },
     "20260629142405_twitter_com_lindong2200_status_2071600598865396161.json": {
       "status": "done",
