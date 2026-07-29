@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2066694074778927142",
+    "created_at": "2026-06-17T04:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067100892575498524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1493601466346610712",
+          "start": 0,
+          "username": "basilbakery1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067100892575498524",
+    "in_reply_to_user_id": "1493601466346610712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066860045422481665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@basilbakery1127 不想吃抗抑郁类药物，我白天要上课，唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2066694074778927142",
+        "created_at": "2026-06-17T04:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067100892575498524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1493601466346610712",
+              "start": 0,
+              "username": "basilbakery1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067100892575498524",
+        "in_reply_to_user_id": "1493601466346610712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066860045422481665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@basilbakery1127 不想吃抗抑郁类药物，我白天要上课，唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493601466346610712",
+        "conversation_id": "2066694074778927142",
+        "created_at": "2026-06-16T12:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066860045422481665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043300901050322944",
+              "start": 0,
+              "username": "lindong2200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066860045422481665",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066694074778927142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lindong2200 喹硫平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 206,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 387
+        },
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T15:02:03.000Z",
+        "description": "擁抱重度依賴。 sub/nonbinary｜可以叫我Yui或者小唯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/basilbakery",
+                "end": 23,
+                "expanded_url": "https://ngl.link/basilbakery",
+                "start": 0,
+                "url": "https://t.co/ogMKAWuoko"
+              }
+            ]
+          }
+        },
+        "id": "1493601466346610712",
+        "name": "Yui✝️",
+        "pinned_tweet_id": "2037647039253909781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045969325572714496/PdaxKe4R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 299,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1437
+        },
+        "url": "https://t.co/ogMKAWuoko",
+        "username": "basilbakery1127",
+        "verified": false
+      }
+    ]
+  }
+}

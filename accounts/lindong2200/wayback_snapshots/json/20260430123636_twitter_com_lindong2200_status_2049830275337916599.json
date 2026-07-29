@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2049372846183559169",
+    "created_at": "2026-04-30T12:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049830275337916599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947850335760093187",
+          "start": 0,
+          "username": "Allen9727760773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049830275337916599",
+    "in_reply_to_user_id": "1947850335760093187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049755285456347557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allen9727760773 🤡话糙理不糙，但这话是不是有点太糙了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2049372846183559169",
+        "created_at": "2026-04-30T12:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049830275337916599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947850335760093187",
+              "start": 0,
+              "username": "Allen9727760773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049830275337916599",
+        "in_reply_to_user_id": "1947850335760093187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049755285456347557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allen9727760773 🤡话糙理不糙，但这话是不是有点太糙了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947850335760093187",
+        "conversation_id": "2049372846183559169",
+        "created_at": "2026-04-30T07:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049755285456347557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043300901050322944",
+              "start": 0,
+              "username": "lindong2200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049755285456347557",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049372846183559169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lindong2200 孩子，你要明白，人生就是逼，剛出生還是處女，然後就會有各種雞巴過來操你，你就被越操越松，一般的小雞巴進來就無感了，但是有很多人根本就沒被操過幾次，就還很緊，所以離譜的人很多，你也去操操她，罵她，就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖od‖🔪🩸‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖前世@Xilne_cc寻找推u中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Xilne_cc"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2049507075437515208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 118,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 146
+        },
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T02:44:57.000Z",
+        "description": "od 药理学 心理学 玄学 \n任何问题都可以来问我，我不会拒绝任何一个礼貌的来访者\n六爻 八字 塔罗 精通 曾经有自己的小摊 欢迎来找我看看未来\n重抑中焦 环性心境",
+        "id": "1947850335760093187",
+        "location": "阿比斯第七层",
+        "name": "王Allen",
+        "pinned_tweet_id": "2035335043586134510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947850392127344640/G68OC7Yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 119,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 466
+        },
+        "username": "Allen9727760773",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2071431287194456372",
+    "created_at": "2026-06-29T03:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T04:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071431287194456372"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071431287194456372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去医院开药被告知sns和pr都出了新的法规，虽然他并没有详细说明，但是他每种只给我开了一盒，多开签不了字。。。。目前我的处方只有这一家能买到绿普，其他都是粉普，粉普还是太垃圾了，等放假回去一定问问能不能有外派处方，再也不想吃粉普了\n如果你吃过白普，对比就是150mg白普有药效但粉普没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2071431287194456372",
+        "created_at": "2026-06-29T03:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071431287194456372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071431287194456372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去医院开药被告知sns和pr都出了新的法规，虽然他并没有详细说明，但是他每种只给我开了一盒，多开签不了字。。。。目前我的处方只有这一家能买到绿普，其他都是粉普，粉普还是太垃圾了，等放假回去一定问问能不能有外派处方，再也不想吃粉普了\n如果你吃过白普，对比就是150mg白普有药效但粉普没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 205,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 434
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2074470328215212082",
+    "created_at": "2026-07-10T13:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075571579510313138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2051295193949982720",
+          "start": 0,
+          "username": "jimincatttsr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075571579510313138",
+    "in_reply_to_user_id": "2051295193949982720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074818341492191472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimincatttsr 喹硫平还能禁？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2074470328215212082",
+        "created_at": "2026-07-10T13:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075571579510313138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2051295193949982720",
+              "start": 0,
+              "username": "jimincatttsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075571579510313138",
+        "in_reply_to_user_id": "2051295193949982720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074818341492191472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimincatttsr 喹硫平还能禁？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051295193949982720",
+        "conversation_id": "2074470328215212082",
+        "created_at": "2026-07-08T11:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074818341492191472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043300901050322944",
+              "start": 0,
+              "username": "lindong2200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074818341492191472",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074470328215212082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lindong2200 禁售就老实了这群傻货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 219,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T13:38:40.000Z",
+        "description": "欢迎互fo/我心肝是bts和张元英还有爆豪胜己 基本不在乎你属性 偶尔发血和自拍 可爱的女孩子来吧来吧 顺直健全人品客滚蛋",
+        "id": "2051295193949982720",
+        "name": "⸝⸝っ·̫ •⸝⸝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074819115886485504/-3__2Mmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 23,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "jimincatttsr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2071596540414828544"
+      ]
+    },
+    "author_id": "2043300901050322944",
+    "conversation_id": "2071596743226167689",
+    "created_at": "2026-06-29T14:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071596743226167689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vQT6w3upvg",
+          "end": 30,
+          "expanded_url": "https://x.com/lindong2200/status/2071596743226167689/video/1",
+          "media_key": "7_2071596540414828544",
+          "start": 7,
+          "url": "https://t.co/vQT6w3upvg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071596743226167689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "叠纸你倒闭吧 https://t.co/vQT6w3upvg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34286,
+        "height": 1280,
+        "media_key": "7_2071596540414828544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071596540414828544/pu/img/4h5QLvLse5Fp3KR2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071596540414828544/pu/vid/avc1/320x710/BWf3ss3Y_2v8W5J9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071596540414828544/pu/vid/avc1/480x1066/_Z2lnt6V4UeKCfqu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071596540414828544/pu/vid/avc1/576x1280/i-eUzmSVeQDe1hl1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071596540414828544/pu/pl/foDqV07yhv5c1xwd.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071596540414828544"
+          ]
+        },
+        "author_id": "2043300901050322944",
+        "conversation_id": "2071596743226167689",
+        "created_at": "2026-06-29T14:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071596743226167689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQT6w3upvg",
+              "end": 30,
+              "expanded_url": "https://x.com/lindong2200/status/2071596743226167689/video/1",
+              "media_key": "7_2071596540414828544",
+              "start": 7,
+              "url": "https://t.co/vQT6w3upvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071596743226167689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叠纸你倒闭吧 https://t.co/vQT6w3upvg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 205,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2064335214365774225",
+    "created_at": "2026-06-09T13:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064335214365774225"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064335214365774225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天神经病导员跟我说，我是不是心里不舒服，我说我好得很，我只是神经衰弱，她又让我删朋友圈的负面信息，我说“不要”“我连发朋友圈的自由都没有了吗”他说他担心我，我说我好得很，我非常的好，我都说了我很好了你在担心什么，她说她要关心我，我说我很好\n今天哦pr，晕的要死，加上共济失调，走一半"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2064335214365774225",
+        "created_at": "2026-06-09T13:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064335214365774225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064335214365774225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天神经病导员跟我说，我是不是心里不舒服，我说我好得很，我只是神经衰弱，她又让我删朋友圈的负面信息，我说“不要”“我连发朋友圈的自由都没有了吗”他说他担心我，我说我好得很，我非常的好，我都说了我很好了你在担心什么，她说她要关心我，我说我很好\n今天哦pr，晕的要死，加上共济失调，走一半"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 194,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 354
+        },
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

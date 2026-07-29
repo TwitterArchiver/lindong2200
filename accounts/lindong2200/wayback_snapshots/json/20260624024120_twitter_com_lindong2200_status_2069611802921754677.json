@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2069611802921754677",
+    "created_at": "2026-06-24T02:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069611802921754677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linlin444444/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/linlin444444/status/2069035969471496501",
+          "start": 30,
+          "url": "https://t.co/2OGcSLaauw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069611802921754677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069035969471496501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持了，之前还有人问我500kg，99％浓度的亚盐能不能🐭 https://t.co/2OGcSLaauw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1957,
+        "media_key": "3_2069035946834829312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaxOz6aoAANS-d.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2069611802921754677",
+        "created_at": "2026-06-24T02:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069611802921754677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linlin444444/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/linlin444444/status/2069035969471496501",
+              "start": 30,
+              "url": "https://t.co/2OGcSLaauw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069611802921754677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069035969471496501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持了，之前还有人问我500kg，99％浓度的亚盐能不能🐭 https://t.co/2OGcSLaauw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069035946834829312"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "2069035969471496501",
+        "created_at": "2026-06-22T12:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069035969471496501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yeo9xOdx4s",
+              "end": 117,
+              "expanded_url": "https://x.com/linlin444444/status/2069035969471496501/photo/1",
+              "media_key": "3_2069035946834829312",
+              "start": 94,
+              "url": "https://t.co/yeo9xOdx4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069035969471496501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4138,
+          "like_count": 37,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁都不是天生就懂药理的，谁都不是天生药师，不懂就先看说明书再查网络最后再去问你的药师朋友。如果朋友已经回答过你，就别再问，不懂就吃进急诊，之后自然就懂了，朋友不是包容你一切的圣母玛利亚。 https://t.co/yeo9xOdx4s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 205,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5530,
+          "following_count": 56,
+          "like_count": 395,
+          "listed_count": 12,
+          "media_count": 26,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

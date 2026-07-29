@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2077701630016020701",
+    "created_at": "2026-07-16T10:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077701630016020701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Relylh/status/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Relylh/status/2076595253822566854",
+          "start": 21,
+          "url": "https://t.co/lcB2Ab6NlP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077701630016020701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076595253822566854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "加油啊最小众的妹子！一定要进禁毒社区啊！ https://t.co/lcB2Ab6NlP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076595234662928384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGMXRhaUAA8YDS.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2077701630016020701",
+        "created_at": "2026-07-16T10:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077701630016020701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Relylh/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Relylh/status/2076595253822566854",
+              "start": 21,
+              "url": "https://t.co/lcB2Ab6NlP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077701630016020701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076595253822566854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加油啊最小众的妹子！一定要进禁毒社区啊！ https://t.co/lcB2Ab6NlP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076595234662928384"
+          ]
+        },
+        "author_id": "2076507759839940609",
+        "conversation_id": "2076595253822566854",
+        "created_at": "2026-07-13T09:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076595253822566854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39pNyy10w9",
+              "end": 107,
+              "expanded_url": "https://x.com/Relylh/status/2076595253822566854/photo/1",
+              "media_key": "3_2076595234662928384",
+              "start": 84,
+              "url": "https://t.co/39pNyy10w9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076595253822566854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12180,
+          "like_count": 4,
+          "quote_count": 11,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些挂我的 咋不当我面来说 一个吸毒妹挂上我了 这个药日本都快要禁完了 每天上推特听风就是雨 我操你们死妈的 \n那些骂我的有几个吃这个药了 你妈臭逼 你们这群婊子 https://t.co/39pNyy10w9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 222,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T03:24:39.000Z",
+        "description": "",
+        "id": "2076507759839940609",
+        "name": "Rely",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076614008300535808/0JyjcVqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "Relylh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2050955342822158427",
+    "created_at": "2026-05-03T15:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050955342822158427"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050955342822158427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠第一次吃日美，日美这么牛逼吗？刚不到一个小时就已经上劲了，还不是峰值我感觉我要上高原了，好久没吃dxm了，一直困在2个小时的pr之中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2050955342822158427",
+        "created_at": "2026-05-03T15:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050955342822158427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050955342822158427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠第一次吃日美，日美这么牛逼吗？刚不到一个小时就已经上劲了，还不是峰值我感觉我要上高原了，好久没吃dxm了，一直困在2个小时的pr之中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖od‖🔪🩸‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖前世@Xilne_cc寻找推u中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Xilne_cc"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2049507075437515208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 127,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 170
+        },
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

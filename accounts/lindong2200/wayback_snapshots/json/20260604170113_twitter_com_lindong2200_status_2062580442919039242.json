@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2062580442919039242",
+    "created_at": "2026-06-04T17:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062580442919039242"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062580442919039242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没开智的时候一直觉得自己很牛逼动不动就失忆，甚至给自己确诊了间接性失忆（我不知道这个词有没有医学概念我当时自己想的）\n后来开智了才知道是脑子太痛苦了解离了🤡\n其实现在就算不吃💊也会时不时解离，其实我吃的dxm次数也不多，以前不吃dxm的时候也这样\n导致我说话乱七八糟的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2062580442919039242",
+        "created_at": "2026-06-04T17:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062580442919039242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062580442919039242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没开智的时候一直觉得自己很牛逼动不动就失忆，甚至给自己确诊了间接性失忆（我不知道这个词有没有医学概念我当时自己想的）\n后来开智了才知道是脑子太痛苦了解离了🤡\n其实现在就算不吃💊也会时不时解离，其实我吃的dxm次数也不多，以前不吃dxm的时候也这样\n导致我说话乱七八糟的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 169,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 295
+        },
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

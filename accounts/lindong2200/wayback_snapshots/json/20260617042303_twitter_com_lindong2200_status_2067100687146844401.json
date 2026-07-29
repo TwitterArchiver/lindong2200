@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2066694074778927142",
+    "created_at": "2026-06-17T04:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067100687146844401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051883537586941959",
+          "start": 0,
+          "username": "UppaEpop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067100687146844401",
+    "in_reply_to_user_id": "2051883537586941959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066899192799539288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UppaEpop 谢谢你哦，我昨晚也查过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2066694074778927142",
+        "created_at": "2026-06-17T04:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067100687146844401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051883537586941959",
+              "start": 0,
+              "username": "UppaEpop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067100687146844401",
+        "in_reply_to_user_id": "2051883537586941959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066899192799539288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UppaEpop 谢谢你哦，我昨晚也查过了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051883537586941959",
+        "conversation_id": "2066694074778927142",
+        "created_at": "2026-06-16T15:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066899192799539288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043300901050322944",
+              "start": 0,
+              "username": "lindong2200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066899192799539288",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066694074778927142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lindong2200 莱博雷生一类xx雷生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 206,
+          "like_count": 555,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 385
+        },
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T04:35:41.000Z",
+        "description": "2️⃣4️⃣K地地道道纯正土味中老年健全福✨\nOD/美食/观鸟/绘画/骂老板/日常记录推，指不定哪天信息摄入过量就销号了",
+        "id": "2051883537586941959",
+        "name": "坞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051932726954172416/SzJfuOgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 57,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 72
+        },
+        "username": "UppaEpop",
+        "verified": false
+      }
+    ]
+  }
+}

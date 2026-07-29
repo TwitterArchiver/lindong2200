@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2053715550812229765",
+    "created_at": "2026-05-11T05:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053715550812229765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2052101329250873344",
+          "start": 3,
+          "username": "8964_R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053715550812229765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053427427683283385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964_R: 新店重新开业，抽奖1t神秘物质\n抽奖方式依然是点赞关注转发评论\n需要神秘物质的来找我呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2053715550812229765",
+        "created_at": "2026-05-11T05:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053715550812229765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2052101329250873344",
+              "start": 3,
+              "username": "8964_R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053715550812229765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053427427683283385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964_R: 新店重新开业，抽奖1t神秘物质\n抽奖方式依然是点赞关注转发评论\n需要神秘物质的来找我呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052101329250873344",
+        "conversation_id": "2053427427683283385",
+        "created_at": "2026-05-10T10:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053427427683283385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053427427683283385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 568,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "新店重新开业，抽奖1t神秘物质\n抽奖方式依然是点赞关注转发评论\n需要神秘物质的来找我呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖od‖🔪🩸‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "lindong30"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2049507075437515208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 154,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 260
+        },
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T19:01:07.000Z",
+        "description": "※只是旅行者罢了，把我说过的一切都当做梦呓吧※\n※无性别者※\n※对象@sunset__3000※\n※美工很好有需要可以找她※\n※#odtwt※\n※#shtwt※\n※TG:HsHnFR※\n※我始终如一※\n永远纪念@Inks_chain @Chain_Inks",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "odtwt"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "sunset__3000"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Inks_chain"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Chain_Inks"
+              }
+            ]
+          }
+        },
+        "id": "2052101329250873344",
+        "name": "ヰ世界优泠#参宿七",
+        "pinned_tweet_id": "2052735154242851176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052101413816483840/wqSySJnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 25,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 113
+        },
+        "username": "8964_R",
+        "verified": false
+      }
+    ]
+  }
+}

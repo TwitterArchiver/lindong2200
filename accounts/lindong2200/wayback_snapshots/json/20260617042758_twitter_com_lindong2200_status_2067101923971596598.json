@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2066828887276081414",
+    "created_at": "2026-06-17T04:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067101923971596598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820838373512359936",
+          "start": 0,
+          "username": "youyou_726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067101923971596598",
+    "in_reply_to_user_id": "1820838373512359936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066828887276081414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyou_726 这个公共号可以分享一下吗？想看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066828875808833536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7Z6XobAAAE3bz.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066828875804585984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7Z6XnaMAA0tUw.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2066828887276081414",
+        "created_at": "2026-06-17T04:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067101923971596598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820838373512359936",
+              "start": 0,
+              "username": "youyou_726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067101923971596598",
+        "in_reply_to_user_id": "1820838373512359936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066828887276081414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyou_726 这个公共号可以分享一下吗？想看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066828875808833536",
+            "3_2066828875804585984"
+          ]
+        },
+        "author_id": "1820838373512359936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066828887276081414",
+        "created_at": "2026-06-16T10:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066828887276081414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYWB6FNplA",
+              "end": 41,
+              "expanded_url": "https://x.com/youyou_726/status/2066828887276081414/photo/1",
+              "media_key": "3_2066828875808833536",
+              "start": 18,
+              "url": "https://t.co/IYWB6FNplA"
+            },
+            {
+              "display_url": "pic.x.com/IYWB6FNplA",
+              "end": 41,
+              "expanded_url": "https://x.com/youyou_726/status/2066828887276081414/photo/1",
+              "media_key": "3_2066828875804585984",
+              "start": 18,
+              "url": "https://t.co/IYWB6FNplA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066828887276081414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微信也在管了 我吓哭了 哦的哦的😂 https://t.co/IYWB6FNplA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 207,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T15:04:47.000Z",
+        "description": "🚪88  我很温良找我玩",
+        "id": "1820838373512359936",
+        "name": "悠悠",
+        "pinned_tweet_id": "2007054246567629132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918287850472341504/Q3vixHP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4026,
+          "following_count": 118,
+          "like_count": 1591,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 1850
+        },
+        "url": "",
+        "username": "youyou_726",
+        "verified": false
+      }
+    ]
+  }
+}

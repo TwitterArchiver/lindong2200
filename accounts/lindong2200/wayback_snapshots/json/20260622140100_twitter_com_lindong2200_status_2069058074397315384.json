@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2069058074397315384",
+    "created_at": "2026-06-22T14:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069058074397315384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minako8964/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Minako8964/status/2068770652350537728",
+          "start": 39,
+          "url": "https://t.co/S2uG7egYCd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069058074397315384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068770652350537728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前不知道这样偶然行动过一次，300mg醒了之后走了几步路直接晕的蹲在地上了 https://t.co/S2uG7egYCd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2069058074397315384",
+        "created_at": "2026-06-22T14:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069058074397315384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minako8964/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Minako8964/status/2068770652350537728",
+              "start": 39,
+              "url": "https://t.co/S2uG7egYCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069058074397315384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068770652350537728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前不知道这样偶然行动过一次，300mg醒了之后走了几步路直接晕的蹲在地上了 https://t.co/S2uG7egYCd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973430266124541952",
+        "conversation_id": "2068770652350537728",
+        "created_at": "2026-06-21T18:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068770652350537728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068770652350537728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 4195,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教你们如何将pr药效最大化，我在有耐药的情况下，只吃了450mg，午睡了一个小时，醒来之后发现药效超级无敌大，走路都会很困难，超级欣快！！所以大家吃完pr之后可以尝试睡一个小时"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 206,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 400
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "可以叫我寿司🍣不安会屏蔽，有餐券改花刀od成分小宝宝们不要被吓到了呀，想互关和私联直接来找我就可以啦，赞赏码在背景\n 这个是匿名问答⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qNfVsLeCNp"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "芝士二明治🥪",
+        "pinned_tweet_id": "2052037542984466641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053769022324568064/pXKM1Q-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 353,
+          "like_count": 47691,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 6687
+        },
+        "url": "https://t.co/qNfVsLeCNp",
+        "username": "Minako8964",
+        "verified": false
+      }
+    ]
+  }
+}

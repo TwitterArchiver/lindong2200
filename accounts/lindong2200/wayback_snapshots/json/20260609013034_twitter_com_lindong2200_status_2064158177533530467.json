@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2064157976685088772",
+    "created_at": "2026-06-09T01:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064158177533530467"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064158177533530467",
+    "in_reply_to_user_id": "2043300901050322944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064157976685088772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且还很漂亮……我好讨厌学校，我交了住宿费却什么都不能做，唉，我不叠被子怎么了！！为什么不叠被子还要写检讨！等着吧，我叠一次我叫你爹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 314,
+        "media_key": "3_2064157974382428161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVcvcdawAEKUQ6.jpg",
+        "width": 1181
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2064157976685088772",
+        "created_at": "2026-06-09T01:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064158177533530467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064158177533530467",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064157976685088772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且还很漂亮……我好讨厌学校，我交了住宿费却什么都不能做，唉，我不叠被子怎么了！！为什么不叠被子还要写检讨！等着吧，我叠一次我叫你爹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064157974382428161"
+          ]
+        },
+        "author_id": "2043300901050322944",
+        "conversation_id": "2064157976685088772",
+        "created_at": "2026-06-09T01:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064157976685088772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVm6RixHuu",
+              "end": 84,
+              "expanded_url": "https://x.com/lindong2200/status/2064157976685088772/photo/1",
+              "media_key": "3_2064157974382428161",
+              "start": 61,
+              "url": "https://t.co/SVm6RixHuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064157976685088772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要给自己搭一个漂亮衣架在宿舍里，宿舍不让用杆子的衣架，绳子的衣架应该是可以的吧！这个很粗不容易断，应该能晾很多衣服…… https://t.co/SVm6RixHuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 193,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 340
+        },
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

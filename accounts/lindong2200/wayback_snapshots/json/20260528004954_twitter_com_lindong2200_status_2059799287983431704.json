@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2059799287983431704",
+    "created_at": "2026-05-28T00:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T01:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059799287983431704"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059799287983431704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？？好消息，收了个验证码解封了，坏消息，关注不见了，只显示最新关注，看不了别人的主页，bug吗？\n关于我为什么封了，他说我是机器人🥹🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2059799287983431704",
+        "created_at": "2026-05-28T00:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059799287983431704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059799287983431704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？好消息，收了个验证码解封了，坏消息，关注不见了，只显示最新关注，看不了别人的主页，bug吗？\n关于我为什么封了，他说我是机器人🥹🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖od‖🔪🩸‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "lindong30"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2049507075437515208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 1,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 248
+        },
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

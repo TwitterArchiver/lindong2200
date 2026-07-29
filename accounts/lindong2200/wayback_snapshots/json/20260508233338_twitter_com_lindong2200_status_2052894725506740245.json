@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2052894725506740245",
+    "created_at": "2026-05-08T23:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T00:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052894725506740245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820207828931424256",
+          "start": 3,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052894725506740245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052331807711142358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko0202002: 清明节警察抓到了两个oder\n他们都说自己是无辜的\n只是刚好买了处方药刚好过量了\n警察说：20:11 剧烈变形\n一个oder突然笑了一下被铐走了\n警察接着说：吃完这个会变成一只鸡\n剩下的oder在憋笑\n警察：†升天†\noder：†升天†\n他也被…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2052894725506740245",
+        "created_at": "2026-05-08T23:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052894725506740245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820207828931424256",
+              "start": 3,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052894725506740245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052331807711142358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko0202002: 清明节警察抓到了两个oder\n他们都说自己是无辜的\n只是刚好买了处方药刚好过量了\n警察说：20:11 剧烈变形\n一个oder突然笑了一下被铐走了\n警察接着说：吃完这个会变成一只鸡\n剩下的oder在憋笑\n警察：†升天†\noder：†升天†\n他也被…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2052331807711142358",
+        "created_at": "2026-05-07T10:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052331807711142358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mercyeeua/stat…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/Mercyeeua/status/2052148337152045195",
+              "start": 126,
+              "url": "https://t.co/npoYO98cP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052331807711142358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4965,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052148337152045195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "清明节警察抓到了两个oder\n他们都说自己是无辜的\n只是刚好买了处方药刚好过量了\n警察说：20:11 剧烈变形\n一个oder突然笑了一下被铐走了\n警察接着说：吃完这个会变成一只鸡\n剩下的oder在憋笑\n警察：†升天†\noder：†升天†\n他也被带走了 https://t.co/npoYO98cP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖od‖🔪🩸‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖前世@Xilne_cc寻找推u中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Xilne_cc"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2049507075437515208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 141,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 214
+        },
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 955,
+          "like_count": 1560,
+          "listed_count": 2,
+          "media_count": 1382,
+          "tweet_count": 3858
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

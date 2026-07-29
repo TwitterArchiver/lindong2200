@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2063259760586346750",
+    "created_at": "2026-06-06T19:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T20:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063343225981821364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1963313009117597701",
+          "start": 0,
+          "username": "heyshipz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063343225981821364",
+    "in_reply_to_user_id": "1963313009117597701",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063259760586346750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heyshipz Hi chibi！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2063252138600591360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIk43NacAA-NNs.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2063259760586346750",
+        "created_at": "2026-06-06T19:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063343225981821364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1963313009117597701",
+              "start": 0,
+              "username": "heyshipz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063343225981821364",
+        "in_reply_to_user_id": "1963313009117597701",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063259760586346750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heyshipz Hi chibi！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063252138600591360"
+          ]
+        },
+        "author_id": "1963313009117597701",
+        "conversation_id": "2063259760586346750",
+        "created_at": "2026-06-06T14:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063259760586346750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jsMQdWAlh",
+              "end": 72,
+              "expanded_url": "https://x.com/heyshipz/status/2063259760586346750/photo/1",
+              "media_key": "3_2063252138600591360",
+              "start": 49,
+              "url": "https://t.co/8jsMQdWAlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063259760586346750",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 65712,
+          "like_count": 7930,
+          "quote_count": 33,
+          "reply_count": 941,
+          "retweet_count": 258
+        },
+        "reply_settings": "everyone",
+        "text": "9 YEARS OF BAD LUCK IF YOU DON'T SAY HI TO CHIBI https://t.co/8jsMQdWAlh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 176,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 312
+        },
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T18:48:12.000Z",
+        "description": "between stardust and silence, I exist.",
+        "id": "1963313009117597701",
+        "name": "shipz ✧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035765084073676800/rpvriHs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25920,
+          "following_count": 3509,
+          "like_count": 19585,
+          "listed_count": 22,
+          "media_count": 2492,
+          "tweet_count": 9458
+        },
+        "username": "heyshipz",
+        "verified": true
+      }
+    ]
+  }
+}

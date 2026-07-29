@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2049372846183559169",
+    "created_at": "2026-04-29T06:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049373913231302728"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049373913231302728",
+    "in_reply_to_user_id": "2043300901050322944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049372846183559169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此外这个人凭借她非常牛逼的脑回路和她非常多管闲事的日常成功200天把我从即将步入的健全生活搞到严重的精神问题，甚至是她给我发消息我就应激的那种……简直是很恐怖了，并且我之前是泛性恋被她搞的十分害怕le，她碰我身体我就会恶心的程度，而且她还是未成年，是pr救了我，pr让我和她断了关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2049372846183559169",
+        "created_at": "2026-04-29T06:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049373913231302728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049373913231302728",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049372846183559169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此外这个人凭借她非常牛逼的脑回路和她非常多管闲事的日常成功200天把我从即将步入的健全生活搞到严重的精神问题，甚至是她给我发消息我就应激的那种……简直是很恐怖了，并且我之前是泛性恋被她搞的十分害怕le，她碰我身体我就会恶心的程度，而且她还是未成年，是pr救了我，pr让我和她断了关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2049372846183559169",
+        "created_at": "2026-04-29T06:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049372846183559169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049372846183559169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我有钱我根本不会得精神病！！\n之前听过一个最离谱的事是，从小爸妈没有打过零花钱是管够的，手机是从记事起开始自行支配的，想换手机是可以直接去换的，因为她爸让她往冰箱里放肉委屈的哭了，委屈的原因是，让她去不让她弟弟去，不是，这种活很……？很难吗？很累吗？难道不是谁比较方便谁去吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖od‖🔪🩸‖infp‖🚪‖互fo慢有上限漏掉可以私我‖前世@Xilne_cc寻找推u中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "Xilne_cc"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2047225739855143020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 110,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 135
+        },
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

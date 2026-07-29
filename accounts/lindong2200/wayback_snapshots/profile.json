@@ -1,0 +1,30 @@
+{
+  "name": "凜冬2.0",
+  "username": "@lindong2200",
+  "bio": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+  "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 43,
+        "start": 34,
+        "username": "Xilne_cc"
+      },
+      {
+        "end": 64,
+        "start": 54,
+        "username": "lindong30"
+      },
+      {
+        "end": 79,
+        "start": 66,
+        "username": "chuF6yuanmen"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg"
+}

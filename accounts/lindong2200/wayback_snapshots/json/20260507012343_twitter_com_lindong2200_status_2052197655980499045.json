@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2052101080050532369",
+    "created_at": "2026-05-07T01:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052197655980499045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041360911936720896",
+          "start": 0,
+          "username": "teacherYing_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052197655980499045",
+    "in_reply_to_user_id": "2041360911936720896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052101080050532369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teacherYing_ 特别慢，我之前买也是，在海关就卡了两三天，但是过了就运的很快了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2052101080050532369",
+        "created_at": "2026-05-07T01:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052197655980499045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041360911936720896",
+              "start": 0,
+              "username": "teacherYing_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052197655980499045",
+        "in_reply_to_user_id": "2041360911936720896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052101080050532369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teacherYing_ 特别慢，我之前买也是，在海关就卡了两三天，但是过了就运的很快了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041360911936720896",
+        "conversation_id": "2052101080050532369",
+        "created_at": "2026-05-06T18:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052101080050532369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052101080050532369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国海关这个效率我真的要闹了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖od‖🔪🩸‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖前世@Xilne_cc寻找推u中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Xilne_cc"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2049507075437515208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 131,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T03:43:08.000Z",
+        "description": "❗️健全逼慎入 内有自伤 药物滥用内容❗️\n queer🏳️‍🌈/泛性恋/05年学音乐制作的大学生（休学中）/重度抑郁焦虑症/拉康派精神分析爱好者/药物交流/bilibili同名时不时直播打打游戏/查成分互fo",
+        "id": "2041360911936720896",
+        "location": "天堂",
+        "name": "不迷人的应老师",
+        "pinned_tweet_id": "2049208399427166257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041361579682480129/YnCHJwWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 100,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "teacherYing_",
+        "verified": false
+      }
+    ]
+  }
+}

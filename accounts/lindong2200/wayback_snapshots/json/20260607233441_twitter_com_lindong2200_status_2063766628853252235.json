@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2063465349673332957",
+    "created_at": "2026-06-07T23:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T00:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063766628853252235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921526679962361858",
+          "start": 0,
+          "username": "EKiimako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063766628853252235",
+    "in_reply_to_user_id": "1921526679962361858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063577304048005449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EKiimako 而且还有些医生忙着下班疯狂催促你，很恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2063465349673332957",
+        "created_at": "2026-06-07T23:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063766628853252235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921526679962361858",
+              "start": 0,
+              "username": "EKiimako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063766628853252235",
+        "in_reply_to_user_id": "1921526679962361858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063577304048005449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EKiimako 而且还有些医生忙着下班疯狂催促你，很恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921526679962361858",
+        "conversation_id": "2063465349673332957",
+        "created_at": "2026-06-07T11:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063577304048005449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043300901050322944",
+              "start": 0,
+              "username": "lindong2200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063577304048005449",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063465349673332957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lindong2200 精神科我认为就是很特殊的一种东西毕竟是心理疾病，医生说来说去就那些话术完全在讲废话…最后看一眼时间就结束交钱了，本来患者都要敞开心扉了结果被告知时间到了才恍然想起这只是一次他们的工作治疗，感到更烦起到反效果…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 183,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 328
+        },
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T11:24:26.000Z",
+        "description": "🇨🇳CN →idv 什么都发点，吃产一体机，是杂食但有雷，目前主产斗牛/骑士相关，偶尔更些别的副产…私信已关闭\nThe account that publishes the work",
+        "id": "1921526679962361858",
+        "name": "CnhFlamm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061996673195237376/DD74bi6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 10,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 104
+        },
+        "username": "EKiimako",
+        "verified": false
+      }
+    ]
+  }
+}

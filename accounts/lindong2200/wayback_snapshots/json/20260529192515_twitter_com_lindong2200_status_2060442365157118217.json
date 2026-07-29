@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2060363646828716062",
+    "created_at": "2026-05-29T19:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060442365157118217"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060442365157118217",
+    "in_reply_to_user_id": "2043300901050322944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060363646828716062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "03:11 一场猝不及防呕吐，寻思爬起来上个厕所就睡觉了，结果一直分泌口水和反胃，于是我快速回床，导致差点吐到床上。。。。幸好我有床边垃圾桶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2060363646828716062",
+        "created_at": "2026-05-29T19:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060442365157118217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060442365157118217",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060363646828716062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "03:11 一场猝不及防呕吐，寻思爬起来上个厕所就睡觉了，结果一直分泌口水和反胃，于是我快速回床，导致差点吐到床上。。。。幸好我有床边垃圾桶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2060363646828716062",
+        "created_at": "2026-05-29T14:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060363646828716062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060363646828716062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酸奶葡萄，开吃，感觉吃什么都有恶心感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖od‖🔪🩸‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "lindong30"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2049507075437515208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 157,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 261
+        },
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

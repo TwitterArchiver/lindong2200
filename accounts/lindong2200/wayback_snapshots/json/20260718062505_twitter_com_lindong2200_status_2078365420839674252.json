@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2078365394415587842",
+    "created_at": "2026-07-18T06:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078365420839674252"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078365420839674252",
+    "in_reply_to_user_id": "2043300901050322944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078365399373287820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是我已经装作不知道了，等下次去药店一定要和他说说，我回家查了一下发现现在都在吃感康了，我还问他们卖完会不会还进货，她说给我留着，我直接nonononono开始装傻不用了医生给我开多少我买多少就行，最后还嘱咐我不要多吃，我说我知道，我有医嘱，我真的我脸都要笑裂了就在这里装傻，出门就笑崩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2078365394415587842",
+        "created_at": "2026-07-18T06:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078365420839674252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078365420839674252",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078365399373287820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我已经装作不知道了，等下次去药店一定要和他说说，我回家查了一下发现现在都在吃感康了，我还问他们卖完会不会还进货，她说给我留着，我直接nonononono开始装傻不用了医生给我开多少我买多少就行，最后还嘱咐我不要多吃，我说我知道，我有医嘱，我真的我脸都要笑裂了就在这里装傻，出门就笑崩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2078365394415587842",
+        "created_at": "2026-07-18T06:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078365399373287820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078365399373287820",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078365394415587842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我“我有处方”然后店员就开始和我讲述我们这边昨天刚有人去和她要右美复方制品还问我知不知道玉米片，我“那不是一个很好用的咳嗽药吗”店员说“对啊，也不知道这群人是干啥，搞致幻”我直接，啊？啥玩意儿？还能这么整呢，又在装傻笑死我了，还说了甘草片什么的，我盯着柜子里的感康和强力枇杷露很想说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 223,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 508
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

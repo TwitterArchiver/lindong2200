@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2065267768950419501",
+    "created_at": "2026-06-12T06:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065318229434880489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1112053664468873216",
+          "start": 0,
+          "username": "Ghada87685873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065318229434880489",
+    "in_reply_to_user_id": "1112053664468873216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065297288449372217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ghada87685873 带派了老铁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2065267768950419501",
+        "created_at": "2026-06-12T06:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065318229434880489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1112053664468873216",
+              "start": 0,
+              "username": "Ghada87685873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065318229434880489",
+        "in_reply_to_user_id": "1112053664468873216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065297288449372217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ghada87685873 带派了老铁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1112053664468873216",
+        "conversation_id": "2065267768950419501",
+        "created_at": "2026-06-12T04:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065297288449372217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043300901050322944",
+              "start": 0,
+              "username": "lindong2200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065297288449372217",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065267768950419501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lindong2200 哎呦我去太带派了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 203,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 379
+        },
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-30T18:07:09.000Z",
+        "description": "永远中二病的男生，永远18岁至仁至善的魔王\n无心理疾病，抗压能力超强，恶习是抽烟",
+        "id": "1112053664468873216",
+        "name": "家桐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061624364273913856/s8Deephq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 173,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 227
+        },
+        "username": "Ghada87685873",
+        "verified": false
+      }
+    ]
+  }
+}

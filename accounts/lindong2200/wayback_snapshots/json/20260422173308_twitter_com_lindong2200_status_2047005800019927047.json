@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046992905001455616"
+      ],
+      "media_source_tweet_id": [
+        "2046992923586437206"
+      ]
+    },
+    "author_id": "2043300901050322944",
+    "conversation_id": "2047005800019927047",
+    "created_at": "2026-04-22T17:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047005800019927047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025838696294227968",
+          "start": 3,
+          "username": "Xilne_cc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T53L40jQIW",
+          "end": 68,
+          "expanded_url": "https://x.com/Xilne_cc/status/2046992923586437206/photo/1",
+          "media_key": "3_2046992905001455616",
+          "start": 45,
+          "url": "https://t.co/T53L40jQIW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047005800019927047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046992923586437206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xilne_cc: 加巴噴丁測試\n先暫時這樣，明早還要上早操，晚安，明早更新後續 https://t.co/T53L40jQIW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2273,
+        "media_key": "3_2046992905001455616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhhM6BbUAAnCjK.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046992905001455616"
+          ],
+          "media_source_tweet_id": [
+            "2046992923586437206"
+          ]
+        },
+        "author_id": "2043300901050322944",
+        "conversation_id": "2047005800019927047",
+        "created_at": "2026-04-22T17:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047005800019927047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025838696294227968",
+              "start": 3,
+              "username": "Xilne_cc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T53L40jQIW",
+              "end": 68,
+              "expanded_url": "https://x.com/Xilne_cc/status/2046992923586437206/photo/1",
+              "media_key": "3_2046992905001455616",
+              "start": 45,
+              "url": "https://t.co/T53L40jQIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047005800019927047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046992923586437206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xilne_cc: 加巴噴丁測試\n先暫時這樣，明早還要上早操，晚安，明早更新後續 https://t.co/T53L40jQIW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046992905001455616"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "conversation_id": "2046992923586437206",
+        "created_at": "2026-04-22T16:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046992923586437206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T53L40jQIW",
+              "end": 54,
+              "expanded_url": "https://x.com/Xilne_cc/status/2046992923586437206/photo/1",
+              "media_key": "3_2046992905001455616",
+              "start": 31,
+              "url": "https://t.co/T53L40jQIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046992923586437206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "加巴噴丁測試\n先暫時這樣，明早還要上早操，晚安，明早更新後續 https://t.co/T53L40jQIW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "⁺₊꒰ঌ⊹ 别再让天使陪你受伤 ⊹໒꒱ྀི₊⁺",
+        "id": "2043300901050322944",
+        "name": "初氡（凜冬2.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043301538345455616/cvpqHzFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "提前準備好2.0防封@lindong2200‖06‖自伤🔪‖重抑重焦精分‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lindong2200"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 139,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 116,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬（千年老王八不死版）",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 213,
+          "like_count": 1813,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 570
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

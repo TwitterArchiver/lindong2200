@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2062707508662436078",
+    "created_at": "2026-06-05T04:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062748858535580121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675444856288870401",
+          "start": 0,
+          "username": "Maedarikuonly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062748858535580121",
+    "in_reply_to_user_id": "1675444856288870401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062707508662436078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maedarikuonly1 互fo互fo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2062707479717478400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA1hiwaAAADfNn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2062707479713288192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA1hivaEAATy6z.jpg",
+        "width": 1707
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062707479713357824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA1hivbIAAAuTO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062707479709114368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA1hiuaYAA7Du_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2062707508662436078",
+        "created_at": "2026-06-05T04:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062748858535580121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675444856288870401",
+              "start": 0,
+              "username": "Maedarikuonly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062748858535580121",
+        "in_reply_to_user_id": "1675444856288870401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062707508662436078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maedarikuonly1 互fo互fo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062707479717478400",
+            "3_2062707479713288192",
+            "3_2062707479713357824",
+            "3_2062707479709114368"
+          ]
+        },
+        "author_id": "1675444856288870401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062707508662436078",
+        "created_at": "2026-06-05T01:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062707508662436078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TePfup3N9F",
+              "end": 106,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2062707508662436078/photo/1",
+              "media_key": "3_2062707479717478400",
+              "start": 83,
+              "url": "https://t.co/TePfup3N9F"
+            },
+            {
+              "display_url": "pic.x.com/TePfup3N9F",
+              "end": 106,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2062707508662436078/photo/1",
+              "media_key": "3_2062707479713288192",
+              "start": 83,
+              "url": "https://t.co/TePfup3N9F"
+            },
+            {
+              "display_url": "pic.x.com/TePfup3N9F",
+              "end": 106,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2062707508662436078/photo/1",
+              "media_key": "3_2062707479713357824",
+              "start": 83,
+              "url": "https://t.co/TePfup3N9F"
+            },
+            {
+              "display_url": "pic.x.com/TePfup3N9F",
+              "end": 106,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2062707508662436078/photo/1",
+              "media_key": "3_2062707479709114368",
+              "start": 83,
+              "url": "https://t.co/TePfup3N9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062707508662436078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 851,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "号主已成年/双相情感障碍/overdoes/🈹\n找我互fo吧，我需要小看一下成分，年龄特别小的宝宝我就不回了你懂的，我不放割图了我被马斯克盯上了别再封我了别赶我走… https://t.co/TePfup3N9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 170,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 303
+        },
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 113,
+          "like_count": 2610,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 782
+        },
+        "username": "Maedarikuonly1",
+        "verified": false
+      }
+    ]
+  }
+}

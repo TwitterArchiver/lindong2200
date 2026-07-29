@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2067398155327701404",
+    "created_at": "2026-06-18T00:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067398155327701404"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067398155327701404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我让我爸给我买达利雷生，我有店50mg×100t的大概五百多（此处没算运费）就能拿到，但是他非让我去医院花很多很多钱搞明白到底为什么睡不着然后再在医院开那个50mg×20t要三百多块的，医院你真会赚钱啊，不过被我严厉拒绝了，他又搜睡觉的药让我吃右佐，右佐反苦啊带着保持器就会收获长久的吃苦💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2067398155327701404",
+        "created_at": "2026-06-18T00:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067398155327701404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067398155327701404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我让我爸给我买达利雷生，我有店50mg×100t的大概五百多（此处没算运费）就能拿到，但是他非让我去医院花很多很多钱搞明白到底为什么睡不着然后再在医院开那个50mg×20t要三百多块的，医院你真会赚钱啊，不过被我严厉拒绝了，他又搜睡觉的药让我吃右佐，右佐反苦啊带着保持器就会收获长久的吃苦💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 208,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 392
+        },
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}
