@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2090675032037142944",
+    "created_at": "2026-08-21T05:39:05.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090675032037142944"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090675032037142944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "答应我，吃完sns一定要上床睡觉，不要乱走了，我吃完之后又去洗漱又去收拾，上床的时候已经不知道过了多久了，灯一关就断片了，据对象所说，我一直在乱说话，说什么星际飞船，乱斗什么的，还呕吐了，但是这些我都一点印象都没有，包括我睡前给朋友发的消息也全都不记得了，包括正常的消息，还好没乱发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2090675032037142944",
+        "created_at": "2026-08-21T05:39:05.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090675032037142944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090675032037142944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "答应我，吃完sns一定要上床睡觉，不要乱走了，我吃完之后又去洗漱又去收拾，上床的时候已经不知道过了多久了，灯一关就断片了，据对象所说，我一直在乱说话，说什么星际飞船，乱斗什么的，还呕吐了，但是这些我都一点印象都没有，包括我睡前给朋友发的消息也全都不记得了，包括正常的消息，还好没乱发"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "is_identity_verified": false,
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "most_recent_tweet_id": "2090675032037142944",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043300901050322944/1777074269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 217,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 542
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

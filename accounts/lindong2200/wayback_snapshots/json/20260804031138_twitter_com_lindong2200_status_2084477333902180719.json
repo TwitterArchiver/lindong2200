@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2084114006219120779",
+    "created_at": "2026-08-04T03:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084477333902180719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1858868336366678016",
+          "start": 0,
+          "username": "5car1e4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084477333902180719",
+    "in_reply_to_user_id": "1858868336366678016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084274468848124263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5car1e4 不敢不敢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1228,
+        "media_key": "3_2084274463030603776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzUlMdbcAAo34R.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2084114006219120779",
+        "created_at": "2026-08-04T03:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084477333902180719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1858868336366678016",
+              "start": 0,
+              "username": "5car1e4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084477333902180719",
+        "in_reply_to_user_id": "1858868336366678016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084274468848124263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5car1e4 不敢不敢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084274463030603776"
+          ]
+        },
+        "author_id": "1858868336366678016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084114006219120779",
+        "created_at": "2026-08-03T13:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084274468848124263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043300901050322944",
+              "start": 0,
+              "username": "lindong2200"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YkH2BC8EbF",
+              "end": 45,
+              "expanded_url": "https://x.com/5car1e4/status/2084274468848124263/photo/1",
+              "media_key": "3_2084274463030603776",
+              "start": 22,
+              "url": "https://t.co/YkH2BC8EbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084274468848124263",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 427,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084114006219120779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lindong2200 来买我的米果玉米 https://t.co/YkH2BC8EbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 226,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 530
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T13:42:23.000Z",
+        "description": "倘若你想被青睐、娱君伴驾或效犬马之劳，空口无凭 ，用行动来证明你的忠诚。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yyyyyyy.info",
+                "end": 23,
+                "expanded_url": "http://yyyyyyy.info",
+                "start": 0,
+                "url": "https://t.co/NTXArsxJyc"
+              }
+            ]
+          }
+        },
+        "id": "1858868336366678016",
+        "location": "阿佐特图书馆",
+        "name": "谵妄诡辩",
+        "pinned_tweet_id": "2039679500376739973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081298861763842048/VC-S-8p3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 25,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/NTXArsxJyc",
+        "username": "5car1e4",
+        "verified": true
+      }
+    ]
+  }
+}

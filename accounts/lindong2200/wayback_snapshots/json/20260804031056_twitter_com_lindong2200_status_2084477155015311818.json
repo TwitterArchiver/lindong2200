@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2084114006219120779",
+    "created_at": "2026-08-04T03:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084477155015311818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "962357887644266496",
+          "start": 0,
+          "username": "aiika23uxu"
+        },
+        {
+          "end": 21,
+          "id": "1493016356182056961",
+          "start": 12,
+          "username": "Mintink3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mobile.yangkeduo.com/goods1.html?ps…",
+          "end": 45,
+          "expanded_url": "https://mobile.yangkeduo.com/goods1.html?ps=TKnxYC9bw1",
+          "start": 22,
+          "unwound_url": "https://mobile.yangkeduo.com/goods1.html?goods_id=979429572399&page_from=35&pxq_secret_key=X7SMUCAEL6ADWD4HBMUZCNHFIOGQCAH7RIZNZRQRL3QIXVHFFVJA&_oak_share_snapshot_num=13300&_oak_share_detail_id=28464188864&_oak_share_time=1785813031&share_oak_rcto=YWKdkSvaZYN7VKuxDY-8y4gthexZfeAKUKXf9sz4gxd1-gb4X66u983f&_oak_share_ticket=01-0000000029-9bae7db7a64b94b53f047129f0180a89c8d636d3dd6f005b58f9e2c24cfbc2f5-1787109032&share_uin=YETPYPVH7FSMIBWUBOKAHUJ7SU_GEXDA&refer_share_id=b85e4b3a0ff84d2f904b7e6f195bcf16&refer_share_uin=YETPYPVH7FSMIBWUBOKAHUJ7SU_GEXDA&refer_share_channel=copy_link&refer_share_form=text",
+          "url": "https://t.co/iRyIdHfCPt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084477155015311818",
+    "in_reply_to_user_id": "962357887644266496",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084407786973372453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiika23uxu @Mintink3 https://t.co/iRyIdHfCPt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2084114006219120779",
+        "created_at": "2026-08-04T03:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084477155015311818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "962357887644266496",
+              "start": 0,
+              "username": "aiika23uxu"
+            },
+            {
+              "end": 21,
+              "id": "1493016356182056961",
+              "start": 12,
+              "username": "Mintink3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mobile.yangkeduo.com/goods1.html?ps…",
+              "end": 45,
+              "expanded_url": "https://mobile.yangkeduo.com/goods1.html?ps=TKnxYC9bw1",
+              "start": 22,
+              "unwound_url": "https://mobile.yangkeduo.com/goods1.html?goods_id=979429572399&page_from=35&pxq_secret_key=X7SMUCAEL6ADWD4HBMUZCNHFIOGQCAH7RIZNZRQRL3QIXVHFFVJA&_oak_share_snapshot_num=13300&_oak_share_detail_id=28464188864&_oak_share_time=1785813031&share_oak_rcto=YWKdkSvaZYN7VKuxDY-8y4gthexZfeAKUKXf9sz4gxd1-gb4X66u983f&_oak_share_ticket=01-0000000029-9bae7db7a64b94b53f047129f0180a89c8d636d3dd6f005b58f9e2c24cfbc2f5-1787109032&share_uin=YETPYPVH7FSMIBWUBOKAHUJ7SU_GEXDA&refer_share_id=b85e4b3a0ff84d2f904b7e6f195bcf16&refer_share_uin=YETPYPVH7FSMIBWUBOKAHUJ7SU_GEXDA&refer_share_channel=copy_link&refer_share_form=text",
+              "url": "https://t.co/iRyIdHfCPt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084477155015311818",
+        "in_reply_to_user_id": "962357887644266496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084407786973372453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiika23uxu @Mintink3 https://t.co/iRyIdHfCPt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "962357887644266496",
+        "conversation_id": "2084114006219120779",
+        "created_at": "2026-08-03T22:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T23:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084407786973372453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            },
+            {
+              "end": 22,
+              "id": "2043300901050322944",
+              "start": 10,
+              "username": "lindong2200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084407786973372453",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084379734230827510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 @lindong2200 求链接😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 226,
+          "like_count": 838,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 528
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-10T16:09:34.000Z",
+        "description": "朝は見たくないの",
+        "id": "962357887644266496",
+        "name": "脳Future",
+        "pinned_tweet_id": "2046607406432764236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082262520866246656/GlNY19JH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 257,
+          "like_count": 1768,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "aiika23uxu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 799,
+          "like_count": 5908,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 923
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}
