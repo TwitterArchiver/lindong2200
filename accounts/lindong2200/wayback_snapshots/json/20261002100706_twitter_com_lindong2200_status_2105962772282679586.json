@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043300901050322944",
+    "conversation_id": "2105962772282679586",
+    "created_at": "2026-10-02T10:07:06.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105962772282679586"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2105962772282679586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经很久很久没有使用一些药物了……嗯……我真的有必要继续去医院延续我的处方吗？但是如果不延续的话，貌似，会让医生觉得奇怪（？）但是感觉自己身体上的一些问题，就算不吃药也还能熬，当然遵医嘱是最好的。\n我的pr攒的真是越来越多了，话说过期还可以吃吗🤔明年有一批会过期🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2105962772282679586",
+        "created_at": "2026-10-02T10:07:06.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105962772282679586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105962772282679586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经很久很久没有使用一些药物了……嗯……我真的有必要继续去医院延续我的处方吗？但是如果不延续的话，貌似，会让医生觉得奇怪（？）但是感觉自己身体上的一些问题，就算不吃药也还能熬，当然遵医嘱是最好的。\n我的pr攒的真是越来越多了，话说过期还可以吃吗🤔明年有一批会过期🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30小狗@chuF6yuanmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "is_identity_verified": false,
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "most_recent_tweet_id": "2105962772282679586",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043300901050322944/1777074269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 207,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 562
+        },
+        "url": "",
+        "username": "lindong2200",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
